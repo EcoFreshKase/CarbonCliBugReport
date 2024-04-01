@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "carbon-now-cli": "^2.0.0"
+  }
+}
